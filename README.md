@@ -49,3 +49,5 @@ Dynamic Footer
 Purpose of the Project
 
 This project was created as part of a web development assignment to practice the integration of HTML structure, CSS styling, and JavaScript functionality in a single webpage.
+assignment 4
+This project implements an interactive Frequently Asked Questions (FAQ) section using HTML, CSS, and JavaScript with an object-oriented approach. HTML provides the basic page structure and a container where all questions and answers are dynamically inserted. CSS is used to design the layout and hide answers by default while adding visual cues like “+” and “−” icons for expansion and collapse. JavaScript defines a QAItem class that stores each question and answer and contains a method to render them into HTML elements. Event listeners are attached to each question so that when the user clicks it, the corresponding answer toggles its visibility. The questions and answers are stored in an array of QAItem objects, allowing the FAQ section to be dynamically generated and easily extended.
